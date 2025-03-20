@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAMLResponse>
+  <Subject>
+    <NameID>admin@domain.com<!---->.evil.com</NameID>
+  </Subject>
+</SAMLResponse>
